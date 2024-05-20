@@ -1,0 +1,13 @@
+{
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "none",
+    "printWidth": 150
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
